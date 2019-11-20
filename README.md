@@ -1,0 +1,2 @@
+# Tablut_Game
+Tablut is one of the family of tafl (or hnefatafl) games: Nordic and Celtic strategy games played on checkered boards between two asymmetric armies. These are ancient games, possibly related to the Roman game ludus latrunculorum, that were generally displaced by chess in the 12th century. Tablut is a variant from Lapland (the northernmost region of Finland). The detailed rules of these games are generally disputed; tablut, having survived into the 1700s, is perhaps best documented by Carl Linnaeus.
