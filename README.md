@@ -11,4 +11,4 @@ The king is captured like other pieces except when he is on the throne square or
 
 A side also loses when it has no legal moves on its turn, or if its move returns the board to a previous position (same pieces in the same places and the same side to move). As a result, there are no drawn games.
 
-**Additionally, the following repository includes code that creates an AI agent to use alpha beta pruning in order to generate moves**
+**Additionally, the following repository also includes my code that creates an AI agent to use alpha beta pruning in order to generate moves.**
